@@ -1,0 +1,65 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.message-label {
+    text-align: center;
+    color: red;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+.register-label {
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+.register-button {
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 280px;
+}
+
+.left-aligned-button {
+    margin-left: 50px; /* Adjust the value as needed */
+}
+.left-aligned-button2 {
+    margin-left: 80px; /* Adjust the value as needed */
+}
+.left-aligned-button3 {
+    margin-left: 240px; /* Adjust the value as needed */
+}
+.left-aligned-button4 {
+    margin-left: 495px; /* Adjust the value as needed */
+}
+}
+
+.left-aligned-button5 {
+    margin-left: 300px; /* Adjust the value as needed */
+}
+
+
+.device-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px; /* Add margin between rows */
+}
+
+.device-info {
+    width: 30%; /* Adjust the width as needed */
+    margin-bottom: 10px; /* Add margin between devices */
+    border: 1px solid #ccc; /* Add border for better visibility */
+    padding: 10px; /* Add padding for better appearance */
+}
