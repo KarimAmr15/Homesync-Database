@@ -33,3 +33,15 @@ By streamlining daily routines, HomeSync enhances organization, productivity, an
 - **HTML & CSS**: User interface design for a seamless experience.
 
 
+
+
+## snapshot of the ERD used
+![Image](https://github.com/user-attachments/assets/c619c7d8-2a20-4568-96c7-2bb5d8526e81)
+
+## snapshots of the website
+![Image](https://github.com/user-attachments/assets/679ebec2-b9c8-4c35-8bac-3754c8f045e5)
+![Image](https://github.com/user-attachments/assets/dfa52cc3-48b0-459c-aba9-60498ce9793a)
+![Image](https://github.com/user-attachments/assets/db35201d-6a15-44c1-bddc-4ea76c103129)
+
+
+
